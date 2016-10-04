@@ -1,0 +1,41 @@
+/*!
+ * CUSTOM STYLING FOR SMS GEL
+ */
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	}
+	
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-style: 200;
+	font-size: 30px;
+	line-height: 40px;
+	color: #343d2;
+	}
+	
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-style: 300;
+	font-size: 20px;
+	}
+	
+	
+/* COLOURS */
+
+.colour-1 {
+	display: inline-block;
+	background-color: #002664;
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+
+.colour-2 {
+	display: inline-block;
+	background-color: #00629b;
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
